@@ -11,3 +11,6 @@ I am a student at UpGrad School of Technology
 ## Contact
 - Email: shloksangwan058@gamil.com
 
+## Hobbies
+- Reading
+- Playing Sports
