@@ -14,3 +14,4 @@ I am a student at UpGrad School of Technology
 ## Hobbies
 - Reading
 - Playing Sports
+- watching movie
